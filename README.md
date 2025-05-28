@@ -18,4 +18,4 @@
 #### 硬件
 飞控板开源地址：https://oshwhub.com/qingshisong/yufeng
 
- <img src="assets/picture/封面.jpg" width="868px" />![封面](https://github.com/user-attachments/assets/48addb85-9b6f-406b-9621-d087d3179bd7)
+ <img src="assets/picture/封面.jpg" width="868px" />
